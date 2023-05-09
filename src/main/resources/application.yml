@@ -1,6 +1,6 @@
 server:
   port: 8888
-  
+
 spring:
   application:
     name: configserver
@@ -9,4 +9,4 @@ spring:
       enabled: true
       server:
         git:
-          uri: https://github.com/CManuelZarate/serverconfig/tree/master
+          uri: https://github.com/CManuelZarate/serverconfig.git
